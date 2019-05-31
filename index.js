@@ -106,7 +106,7 @@ module.exports = withUiHook(async ({ payload, zeitClient }) => {
       
       Actually do something here - link a ZeitHQ project with a Storyblok space? Get the preview/public tokens from a Storyblok space and store it as Env variable?
 
-      <Link target="_blank" href="https://app.storyblok.com/#!/external_login?access_token=${metadata.store.access_token}&user_id=${metadata.store.user_id}&redirect_route=/build/59440">
+      <Link target="_blank" href="https://app.storyblok.com/#!/external_login?access_token=${metadata.store.access_token}&user_id=${metadata.store.user_id}">
       <Button>open storyblok</Button>
     </Link>
 
