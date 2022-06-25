@@ -5,6 +5,6 @@
     "storyblok-js-client": "^1.0.24"
   },
   "devDependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
