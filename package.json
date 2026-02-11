@@ -2,7 +2,7 @@
   "name": "my-ui-hook",
   "dependencies": {
     "@zeit/integration-utils": "latest",
-    "storyblok-js-client": "^1.0.24"
+    "storyblok-js-client": "^7.2.3"
   },
   "devDependencies": {
     "node-fetch": "^2.6.0"
